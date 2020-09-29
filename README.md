@@ -29,6 +29,7 @@ n  |	   a 		|	   b 		|	    c 	 |   f(a)	   |    f(b) 		 |  f(c)
 10 | 3.15430 	| 3.16797 |	 3.16113 |	0.05041  |	-0.03603 	 | 0.00724
 
 Result: 
+
 Approximate root:  3.16113  
 Iterations performed:  10  
 Error:  0.00724
