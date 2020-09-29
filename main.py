@@ -1,3 +1,7 @@
+#
+#   Autor: Edgard Diaz
+#   Este programa aproxima la raiz de una función mediante la técnica de bisección
+#
 from BisectionMethod import BisectionMethod
 
 if __name__ == '__main__':
